@@ -10,8 +10,8 @@
 }
 
 html {
-  background: url(../images/bg-pattern-top.svg) left top no-repeat, url(../images/bg-pattern-bottom.svg) right bottom no-repeat;
-  background-size: 30vmax;
+  background: url(../images/bg-pattern-top.svg) left repeat, url(../images/bg-pattern-bottom.svg) top;
+  background-size: 130vmin, 130vmin;
   background-color: var(--dark-cyan);
 
 }
@@ -20,6 +20,8 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  height: 95vh;
+  position: relative;
 }
 .component {
   font-family: 'Kumbh Sans', sans-serif;
@@ -86,3 +88,15 @@ body {
   letter-spacing: 0.2ch;
 }
 
+.attribution {
+  position: absolute;
+  bottom: 0px;
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+  font-family: monospace;
+  font-size: 80%;
+}
