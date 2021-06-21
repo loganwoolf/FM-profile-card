@@ -25,7 +25,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Live Site URL: [https://loganwoolf.github.io/FM-profile-card/](https://loganwoolf.github.io/FM-profile-card/)
-- Solution URL: [Add solution URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/profile-card-component-DE2pbSsnO](https://www.frontendmentor.io/solutions/profile-card-component-DE2pbSsnO)
 
 ## My process
 
